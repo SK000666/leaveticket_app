@@ -134,7 +134,7 @@ class _ManagerDashboardState extends State<ManagerDashboard> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Manager Dashboard'),
+        title: const Text('Manager Dashboard!!'),
         actions: [
           IconButton(
             tooltip: 'Logout',
